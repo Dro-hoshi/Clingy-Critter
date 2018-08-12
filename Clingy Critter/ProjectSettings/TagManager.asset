@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - plateforme
   - 
   - 
   - 
@@ -44,6 +44,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 4158767221
+    locked: 0
+  - name: Plateform
+    uniqueID: 1445983807
     locked: 0
   - name: Items
     uniqueID: 454564015
